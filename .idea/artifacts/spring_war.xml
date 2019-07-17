@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="spring.war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/spring_war</output-path>
+    <root id="root" />
+  </artifact>
+</component>
