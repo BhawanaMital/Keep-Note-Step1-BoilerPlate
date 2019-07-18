@@ -1,4 +1,9 @@
 target/
+.project
+KeepNote-Step1-Boilerplate.iml
+.classpath
+.hobbes
+.settings
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup

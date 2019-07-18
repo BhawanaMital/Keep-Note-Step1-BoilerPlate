@@ -21,7 +21,6 @@
     </form>
 
 	<!-- display all existing notes in a tabular structure with Id, Title,Content,Status, Created Date and Action -->
-	<!-- display all existing notes in a tabular structure with Id, Title,Content,Status, Created Date and Action -->
             <table>
                <tbody>
                <c:forEach var="note" items="${notes}" varStatus="status">
